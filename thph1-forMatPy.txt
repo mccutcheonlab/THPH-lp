@@ -1,0 +1,43 @@
+tdtfile	medfile	rat	date	session	include	bottleA	bottleB	endcol
+Kate-170612-073349		thph1.1	170612	1	0	saccharin	empty	0
+Kate-170612-084055		thph1.2	170612	1	0	saccharin	empty	0
+Kate-170612-095042		thph1.3	170612	1	0	saccharin	empty	0
+Kate-170612-110041		thph1.4	170612	1	0	saccharin	empty	0
+Kate-170612-120738		thph1.5	170612	1	0	saccharin	empty	0
+Kate-170612-131343		thph1.6	170612	1	0	saccharin	empty	0
+Kate-170613-075509		thph1.1	170613	2	0	saccharin	empty	0
+Kate-170613-090125		thph1.2	170613	2	0	saccharin	empty	0
+Kate-170613-101325		thph1.3	170613	2	0	saccharin	empty	0
+Kate-170613-112411		thph1.4	170613	2	0	saccharin	empty	0
+Kate-170613-123137		thph1.5	170613	2	0	saccharin	empty	0
+Kate-170613-133504		thph1.6	170613	2	0	saccharin	empty	0
+Kate-170614-072440		thph1.1	170614	3	0	saccharin	empty	0
+Kate-170614-082905		thph1.2	170614	3	0	saccharin	empty	0
+Kate-170614-093521		thph1.3	170614	3	0	saccharin	empty	0
+Kate-170614-103855		thph1.4	170614	3	0	saccharin	empty	0
+Kate-170614-114445		thph1.5	170614	3	0	saccharin	empty	0
+Kate-170614-124843		thph1.6	170614	3	0	saccharin	empty	0
+Kate-170615-072238		thph1.1	170615	4	0	saccharin	empty	0
+Kate-170615-083000		thph1.2	170615	4	0	saccharin	empty	0
+Kate-170615-093842		thph1.3	170615	4	0	saccharin	empty	0
+Kate-170615-104258		thph1.4	170615	4	0	saccharin	empty	0
+Kate-170615-115126		thph1.5	170615	4	0	saccharin	empty	0
+Kate-170615-125637		thph1.6	170615	4	0	saccharin	empty	0
+Kate-170616-072307		thph1.1	170616	5	0	saccharin	empty	0
+Kate-170616-082839		thph1.2	170616	5	0	saccharin	empty	0
+Kate-170616-093300		thph1.3	170616	5	0	saccharin	empty	0
+Kate-170616-103654		thph1.4	170616	5	0	saccharin	empty	0
+Kate-170616-114231		thph1.5	170616	5	0	saccharin	empty	0
+Kate-170616-124851		thph1.6	170616	5	0	saccharin	empty	0
+Kate-170620-075640		thph1.1	170620	6	1	saccharin	empty	0
+Kate-170620-090315		thph1.2	170620	6	1	saccharin	empty	0
+Kate-170620-100720		thph1.3	170620	6	1	saccharin	empty	0
+Kate-170620-111200		thph1.4	170620	6	1	saccharin	empty	0
+Kate-170620-121726		thph1.5	170620	6	1	saccharin	empty	0
+Kate-170620-132217		thph1.6	170620	6	1	saccharin	empty	0
+Kate-170621-075250	!2017-06-21_07h47m.Subject thph1.1	thph1.1	170621	7	1	saccharin	empty	0
+Kate-170621-090006	!2017-06-21_08h55m.Subject thph1.2	thph1.2	170621	7	1	saccharin	empty	0
+Kate-170621-101710	!2017-06-21_10h10m.Subject thph1.3	thph1.3	170621	7	1	saccharin	empty	0
+Kate-170621-112435	!2017-06-21_11h18m.Subject thph1.4	thph1.4	170621	7	1	saccharin	empty	0
+Kate-170621-123015	!2017-06-21_12h23m.Subject thph1.5	thph1.5	170621	7	1	saccharin	empty	0
+Kate-170621-133507	!2017-06-21_13h30m.Subject thph1.6	thph1.6	170621	7	1	saccharin	empty	0
